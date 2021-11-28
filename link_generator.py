@@ -1,5 +1,7 @@
 #python script to generate raw.githubuser... links for specified folder in this repo
 #run the script from root directory of the repo
+#note : will over write readme.md 
+
 
 import os
 
@@ -9,10 +11,11 @@ BASE_LINK = 'https://raw.githubusercontent.com/DSC-TCET/Assets/main/'
 #todo -> add target directory from where to generate the content links
 # example -> "image/events/"
 # note end with "/"
-TARGET_DIRS= ["image/sponsors/","image/events/","image/team/"]
+TARGET_DIRS= ["image/sponsors/","image/events/","image/team/","image/background/","image/logo/"]
 
 #file names for which we dont want to generate link
 EXCLUDE_FILES = ['links.txt','readme.md']
+
 
 def generate(TARGET_DIR):
 
