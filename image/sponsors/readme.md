@@ -1,1 +1,0 @@
-logos of our sponsors

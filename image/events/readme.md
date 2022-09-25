@@ -1,9 +1,0 @@
-https://raw.githubusercontent.com/DSC-TCET/Assets/main/image/events/30daysofcloud1.jpeg  
-https://raw.githubusercontent.com/DSC-TCET/Assets/main/image/events/30daysofcloud2.jpeg  
-https://raw.githubusercontent.com/DSC-TCET/Assets/main/image/events/30daysofcloud3.jpeg  
-https://raw.githubusercontent.com/DSC-TCET/Assets/main/image/events/30daysofcloud4.jpeg  
-https://raw.githubusercontent.com/DSC-TCET/Assets/main/image/events/hackthehackathon1.jpeg  
-https://raw.githubusercontent.com/DSC-TCET/Assets/main/image/events/hackthehackathon2.jpeg  
-https://raw.githubusercontent.com/DSC-TCET/Assets/main/image/events/hackthehackathon3.jpeg  
-https://raw.githubusercontent.com/DSC-TCET/Assets/main/image/events/hackthehackathon4.jpeg  
-https://raw.githubusercontent.com/DSC-TCET/Assets/main/image/events/hackthehackathon5.jpeg  
